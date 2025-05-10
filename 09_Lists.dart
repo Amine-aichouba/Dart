@@ -10,7 +10,7 @@ void main ()
     print ( 'Empty list : $emptyList ' ) ; // []
     
 
-    List <int> emptyTypedList = <int>[] ;
+    List <int> emptyTypedList = <int> [] ;
     print ( 'Empty typed list : $emptyTypedList ' ) ; // []
 
     
